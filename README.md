@@ -442,3 +442,6 @@ These events give you visibility into what the malware did, such as:
     Which DLLs or system files it loaded
 
 This is crucial for understanding malware behavior post-execution.
+
+
+This project was inspired by the SOC Homelab guide by Danishcx
